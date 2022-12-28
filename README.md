@@ -34,15 +34,14 @@
 
 
 ### 🍯 Technical Stack
-- ☕ Java 𒑰 Spring Boot 𒑰 Spring 𒑰 MVC 𒑰 Microservices 𒑰 Java Beans 𒑰 RESTful Web Services 𒑰 AWS
-- 📚 Hibernate 𒑰 MySQL 𒑰 MariaDB 𒑰 Postgres 𒑰 MongoDB 𒑰 DynamoDB
-- 🎒 Swagger API 𒑰 Zuul 𒑰 Eureka 𒑰 NodeJS 𒑰 Express 𒑰 NestJS 𒑰 Socket.IO 𒑰 Django
-- ⚡ JavaScript 𒑰 Typescript 𒑰 Node.js 𒑰 HTML 𒑰 CSS 𒑰 Bootstrap 𒑰 C++ 𒑰 C#
-- 🥇 Angular 𒑰 Angular Material 𒑰 React 𒑰 Material UI 𒑰 Ant Design
-- 🏹 Chrome extension with React & Redux
-- 🌎 Google Cloud Platforms(GCP) 𒑰 Kubenetes(K8s) 𒑰 AWS S3 𒑰 EC2 𒑰 Firebase
-- 📣 Github 𒑰 GitLab 𒑰 BitBucket 𒑰 Subversions 𒑰 Trello 𒑰 Slack 𒑰 Jira 𒑰 Confluence
-- 🚩 Docker 𒑰 Jenkins 𒑰 JUnit 𒑰 Jetbrain Tools 𒑰 CI/CD 𒑰 SCRUM 𒑰 Agile Methodologies 𒑰 Test-Driven Development(TDD)
+- ☕ Node.js 𒑰 Python
+- 📚 React 𒑰 Node.js 𒑰 BootStrap 𒑰 jQuery 𒑰 Angular
+- 🎒 VS Code 𒑰 Postman 𒑰 Docker 𒑰 Chrome Developer Tools 𒑰 NPM 𒑰 Kubernetes
+- ⚡ MySQL 𒑰 PostgreSQL 𒑰 SQLite 𒑰 Microsoft SQL Server 𒑰 MongoDB
+- 🥇 AWS 𒑰 Azure
+- 🌎 MochaJS 𒑰 Jest 𒑰 Jasmine 𒑰 EC2 𒑰 Firebase
+- 📣 Git 𒑰 Apache Supervision 𒑰 CVS
+- 🚩 Slack 𒑰 Discord 𒑰 Telegram 𒑰 Skype
 
 ### 🚧 Current Projects
 - 🍃 RESTful Web Services & Web Services with Spring Boot
