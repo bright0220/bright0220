@@ -3,7 +3,7 @@
 -->
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ I'm Full Stack Developer
 
 <p>
   <img align="right" width="500" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611382bf04e5e70d777ebc7c2e988dad020877c25bf&rid=giphy.gif&ct=g" />
@@ -16,19 +16,7 @@
 
 <br>
 
-<!-- ## 🤗 Welcome -->
 
-### 🤗 Contribution
-
-<p align=center>
-<div align=center>
-<img align=right width=420 src="https://github-readme-stats.vercel.app/api?username=ericvale0128&hide=prs&include_all_commits=true&theme=onedark&layout=compact&show_icons=true" />
-<img align=left width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=ericvale0128&theme=onedark" />
-<br>
-<br>
-<br>
-</div>
-</p>
 
 <br><br><br>
 
