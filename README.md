@@ -3,7 +3,7 @@
 -->
 
 
-## 🙋‍♂️ I'm Full Stack Developer (topdeveloper9032@gmail.com)
+## 🙋‍♂️ I'm Full Stack Developer
 
 <br><br>
 
